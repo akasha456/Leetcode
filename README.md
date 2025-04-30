@@ -1,5 +1,3 @@
-Here's a concise description for your **LeetCode Solutions Repository**:
-
 ### **LeetCode Solutions – Algorithm & Data Structure Practice** 🏆  
 A collection of **optimized solutions** for LeetCode problems, written in **Jupyter Notebook** format. This repository serves as a **personal archive** for coding challenges, helping developers improve their problem-solving skills in **algorithms and data structures**.
 
@@ -20,4 +18,3 @@ A collection of **optimized solutions** for LeetCode problems, written in **Jupy
 - 🤖 **Algorithm Optimization** – Writing efficient solutions with minimal complexity.
 - 🔍 **LeetCode Problem Solving** – Tackling real-world coding challenges.
 
-Would you like me to refine or add anything else? 🚀
