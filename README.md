@@ -1,5 +1,5 @@
 ### **LeetCode Solutions – Algorithm & Data Structure Practice** 🏆  
-A collection of **optimized solutions** for LeetCode problems, written in **Jupyter Notebook** format. This repository serves as a **personal archive** for coding challenges, helping developers improve their problem-solving skills in **algorithms and data structures**.
+A collection of **optimized solutions** for LeetCode problems, written in python . This repository serves as a **personal archive** for coding challenges, helping developers improve their problem-solving skills in **algorithms and data structures**.
 
 ### **Key Features:**
 - ✅ **Structured Solutions** for various LeetCode problems.
