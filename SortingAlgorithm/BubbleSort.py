@@ -1,7 +1,7 @@
 
     """
     Bubble Sort - O(n²)
-    Repeatedly swaps adjacent elements if they are in the wrong order.
+    Compare adjacent elements; swaps if they are in the wrong order.
     """
 
 def bubble_sort(arr):
